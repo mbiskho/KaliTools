@@ -1,4 +1,4 @@
-# katoolin
+# KaliTools
 Automatically install all Kali linux tools
 
 # Features
